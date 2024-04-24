@@ -75,7 +75,7 @@ hr {
 }
 /* Navigation */
 #menu {
-	padding: 10px;
+	padding: 5px;
 	transition: all 0.8s;
 }
 #menu.navbar-default {
@@ -102,7 +102,7 @@ hr {
 }
 .navbar-header img{
 	border-radius: 10px;
-	width: 100px;
+	width: 75px;
 }
 .on {
 	background-color: #333 !important;
